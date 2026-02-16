@@ -1,4 +1,4 @@
-# cost-sharing-analysis-moop-exclusion-ml
+
 # Cost-Sharing & MOOP Exclusion Prediction (Healthcare Plans)
 
 This project analyzes U.S. health plan benefits to understand **cost-sharing differences** (copay/coinsurance) between **in-network vs out-of-network** services, and builds ML models to predict whether a service is **excluded from Maximum Out-of-Pocket (MOOP)** limits.
